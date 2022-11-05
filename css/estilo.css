@@ -1,6 +1,11 @@
+
+  
+
+@import url(sass/Boostrap/bootstrap.scss);
 body{
     background: rgb(28, 209, 119);
-    color:red
+    color:red; 
+    font-family: 'Montserrat', sans-serif;
 }
 h1{
     font-size: 20px;
